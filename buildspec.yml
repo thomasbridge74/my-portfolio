@@ -7,9 +7,9 @@ phases:
 
 artifacts:
   files:
-    - index.html
     - favicon.ico
     - images/*
     - styles/*
     - example.txt
     - ThomasBridge.CV.pdf
+    - *.html
