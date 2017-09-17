@@ -12,6 +12,5 @@ artifacts:
     - styles/*
     - example.txt
     - ThomasBridge.CV.pdf
-    - *.html
-    
-    
+    - ./*.html
+
