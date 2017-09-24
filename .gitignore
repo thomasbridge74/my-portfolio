@@ -59,3 +59,6 @@ typings/
 
 # Ignore the dist folder
 dist
+
+# ignoring this for now as it's not referenced in the videos...
+package-lock.json
