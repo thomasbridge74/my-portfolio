@@ -3,7 +3,8 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo Nothing to do yet
+      - npm install
+      - npm run webpack
 
 artifacts:
   files:
@@ -14,4 +15,5 @@ artifacts:
     - ThomasBridge.CV.pdf
     - ./*.html
     - subdir/*
+    - dist/bundle.js
 
