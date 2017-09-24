@@ -62,3 +62,8 @@ dist
 
 # ignoring this for now as it's not referenced in the videos...
 package-lock.json
+
+# Ignore bray site while I'm testing it.
+# Make sure to add files to the buildspec.yml file.
+
+bray
